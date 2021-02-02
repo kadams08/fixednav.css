@@ -1,0 +1,41 @@
+
+.fixedNav
+{background-color: blue;  
+   height: 50px; }
+
+.fixedNav:hover {
+  background: #ddd;
+  color: black;
+}
+
+.section1 
+{ background-color: green; 
+  height: 100px; } 
+
+.section2 
+{ background-color: pink; 
+  height: 100px; } 
+
+.section3 
+{
+  background-color: red;
+  height: 100px;
+} 
+.section4 
+{ 
+  background-color:purple; 
+  height: 100px; } 
+
+.section5
+{ background-color:orange; 
+  height: 100px; } 
+
+.section6 
+{ background-color:purple; 
+  height: 100px; } 
+
+.section7
+{ background-color:magenta; 
+  height: 100px; } 
+
+p { text-align: center; }
